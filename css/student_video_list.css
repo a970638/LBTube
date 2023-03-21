@@ -1,0 +1,28 @@
+.table td:first-child {
+    width: 25%;
+}
+.table td:nth-child(2) {
+    width: 30%;
+}
+.table td:nth-child(3) {
+    width: 30%;
+}
+.table td:nth-child(4) {
+    width: 15%;
+}
+
+#loadingOverlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.5);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.deleteimg{
+    max-width: 30%;
+}

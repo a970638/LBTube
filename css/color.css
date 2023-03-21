@@ -1,0 +1,24 @@
+.navbar{
+    background-color: #042a33
+}
+
+body{
+    background-color: #FAF3EE;
+}
+
+.list-group-item{
+    color: white;
+    font-weight: bold;
+    background-color: #5E9299;
+}
+
+.list-group-item.active {
+    background-color: #054875;
+    border-color: #054875;
+    color: #fff;
+  }
+
+.card{
+    font-weight: bold;
+    background-color: #FFEAE0;
+}

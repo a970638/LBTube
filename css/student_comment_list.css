@@ -1,0 +1,13 @@
+.table td:first-child {
+    width: 22.5%;
+}
+.table td:nth-child(2) {
+    width: 22.5%;
+}
+.table td:nth-child(3) {
+    width: 40%;
+}
+.table td:nth-child(4) {
+    width: 15%;
+}
+
